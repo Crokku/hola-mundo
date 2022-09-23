@@ -1,5 +1,5 @@
-# hola-mundo
-Mi primer repositorio de prueba
+# Hola Mundo
+Mi primer repositorio.
 
 Autor: Rodrigo S.
-Fecha: 23 de Septiembre
+Fecha: 23 de Septiembre.
